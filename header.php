@@ -9,3 +9,7 @@
 		<?php wp_head(); ?>
 	</head>
 	<body>
+    <div class="parallax"><div class="display">
+        <h1>Shadow Protocol</h1><hr>
+        <h2>Hardcover coming soon</h2></div></div>
+
